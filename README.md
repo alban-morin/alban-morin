@@ -4,8 +4,6 @@
 
 ### 🤖 Étudiant en Intelligence Artificielle & Data Science
 
-[![Profile Views](https://komarev.com/ghpvc/?username=alban-morin&color=blueviolet&style=for-the-badge)](https://github.com/alban-morin)
-
 </div>
 
 ---
@@ -43,7 +41,7 @@ Passionné par l'**Intelligence Artificielle** et la **Data Science**, je suis a
 
 ### 🔧 Outils & Technologies
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
@@ -75,8 +73,8 @@ Passionné par l'**Intelligence Artificielle** et la **Data Science**, je suis a
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alban-morin)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alban.morin@utbm.fr)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/albanmorin)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alban.morin.ns@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alban-morin)
 
 </div>
