@@ -11,10 +11,10 @@ Passionné par l'**Intelligence Artificielle** et la **Data Science**, je suis a
 Mon objectif est de contribuer à des projets innovants en IA et d'approfondir mes compétences dans ce domaine.
 
 📍 **Localisation**: France / Canada  
-🎓 **Formation**: Programme de double diplôme : 
-                Ingénieur en Génie informatique, spécialité IA et Data Science, UTBM
-                Maitrise en Intelligence Artificielle, UQAC
-**Intérêts**: Machine Learning, Deep Learning, Data Analysis, Computer Vision, Mathématiques, Nouvelles Technologies
+🎓 **Formation**: Programme de double diplôme :  
+&nbsp;&nbsp;&nbsp;&nbsp;• Ingénieur en Génie informatique, spécialité IA et Data Science, UTBM  
+&nbsp;&nbsp;&nbsp;&nbsp;• Maîtrise en Intelligence Artificielle, UQAC  
+🎯 **Intérêts**: Machine Learning, Deep Learning, Data Analysis, Computer Vision, Mathématiques, Nouvelles Technologies
 
 ---
 
