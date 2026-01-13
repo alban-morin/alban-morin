@@ -48,10 +48,10 @@ Mon objectif est de contribuer à des projets innovants en IA et d'approfondir m
 
 | Projet | Description | Technologies |
 |--------|-------------|--------------|
-| 🎤 **LipRead** | État de l'art complet, adaptation et fine tuning de modèles de lecture labiale | Deep Learning, Computer Vision |
-| 🏆 **RAG Chatbot** | 2ème place (1000$) au Hackathon IA de l'UQAC : Agent conversationnel RAG pour faciliter la compréhension d'incidents de sécurité en entreprise | RAG, NLP, LLM |
-| 🔬 **ConvNext** | Présentation approfondie et implémentation d'un papier de recherche sur les CNNs et les Transformers | CNN, Transformers, PyTorch |
-| 🐔 **CNN médical** | Partenariat avec le CERSA Togo, reconnaissance de maladies sur des volailles avec les CNNs | CNN, Computer Vision, TensorFlow |
+| **LipRead** | État de l'art complet, adaptation et fine tuning de modèles de lecture labiale | Deep Learning, Computer Vision |
+| **RAG Chatbot** | 2ème place (1000$) au Hackathon IA de l'UQAC : Agent conversationnel RAG pour faciliter la compréhension d'incidents de sécurité en entreprise | RAG, NLP, LLM |
+| **ConvNext** | Présentation approfondie et implémentation d'un papier de recherche sur les CNNs et les Transformers | CNN, Transformers, PyTorch |
+| **CNN médical** | Partenariat avec le CERSA Togo, reconnaissance de maladies sur des volailles avec les CNNs | CNN, Computer Vision, TensorFlow |
 
 ---
 
